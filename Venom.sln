@@ -10,21 +10,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Venom.Lego", "Venom.Lego\Venom.Lego.csproj", "{4821066B-554E-4D7A-9350-7AC986CFC0BA}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://edneysilva.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Venom.Lib.Web\\Venom.Web.csproj
-		SccProjectName1 = Venom.Lib.Web
-		SccLocalPath1 = Venom.Lib.Web
-		SccProjectUniqueName2 = Venom.Lib\\Venom.Lib.csproj
-		SccProjectName2 = Venom.Lib
-		SccLocalPath2 = Venom.Lib
-		SccProjectUniqueName3 = Venom.Lego\\Venom.Lego.csproj
-		SccProjectName3 = Venom.Lego
-		SccLocalPath3 = Venom.Lego
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
