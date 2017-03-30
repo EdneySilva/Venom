@@ -44,7 +44,7 @@ generate the Linq based on the values of the properties on the objects,
 that is, you just populate the properties and say to framework to look
 for objects like the model.
 
-VenomObject<T>
+VenomObject&lt;T&gt;
 ------------------------------------------------------------------------
 
 All the business objects need to inherit from this class to have access
