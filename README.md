@@ -47,6 +47,7 @@ for objects like the model.
 VenomObject<T>
 ------------------------------------------------------------------------
 
-Al
+All the business objects need to inherit from this class to have access
+the basic system functionalities
 
 You can use it for corporate, business and agency webpages as well as 
